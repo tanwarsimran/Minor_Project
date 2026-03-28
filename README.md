@@ -137,10 +137,10 @@ If you like this project:
 
 ## 👨‍💻 Author
 
-**Devashish Srivastava | **
-**Simran Tanwar | **
-**Priyanshu Sharma | **
-**Amit Mishra | **
+**Devashish Srivastava**
+**Simran Tanwar**
+**Priyanshu Sharma**
+**Amit Mishra**
 **Naitik Jain**
 
 ---
